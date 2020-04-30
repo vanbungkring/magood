@@ -34,7 +34,7 @@
     "express-validator": "^6.2.0",
     "flag-icon-css": "^3.4.5",
     "font-awesome": "~4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
     "lusca": "^1.6.1",
