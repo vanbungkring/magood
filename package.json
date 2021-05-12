@@ -17,7 +17,7 @@
     "bluebird": "^3.7.1",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.3.1",
-    "chart.js": "^2.9.2",
+    "chart.js": "^2.9.4",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.11.0",
     "compression": "^1.7.4",
